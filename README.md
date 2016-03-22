@@ -5,7 +5,7 @@ A library containing common software components used in the edge project
 
 `git clone https://github.com/edge-desktop/libverge.git`
 
-`cd edge-panel`
+`cd libverge`
 
 ## Building
 
@@ -15,6 +15,6 @@ A library containing common software components used in the edge project
 
 `ninja`
 
-## Running
+## Installing
 
-`./edge-panel`
+`sudo ninja install`
